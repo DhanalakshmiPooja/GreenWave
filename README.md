@@ -6,11 +6,11 @@ Modify the task: Permit users to modify the title, description, due date, and st
 note: Need to be run the API first.
 
 Requirements:
-  Angular 16
-  Node.js 18
-  MongoDB
+  Angular 16,
+  node.js 18,
+  mongoDB
 
 Steps:
-  npm install
-  To run the UI : ng serve command
-  To run the API: Nodemon Index.js
+  npm install,
+  To run the UI : ng serve command,
+  To run the API: nodemon Index.js
